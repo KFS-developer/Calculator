@@ -14,9 +14,8 @@ How to Use:-
 
 Screenshot:-
 
-![1](https://github.com/user-attachments/assets/aefde954-3ea2-4905-90f6-29fe5069e18b)
-![2](https://github.com/user-attachments/assets/6aba2fa4-abbe-4ddd-b2d2-e257f85f10ff)
-
+![1](https://github.com/user-attachments/assets/205888a3-5e3b-46b9-b6e4-f7d9e2370e51)
+![2](https://github.com/user-attachments/assets/f497d257-0f1c-48b5-8f9c-4ff7e63e7bb1)
 
 Live Demo
-👉 Calculator GitHub Repo
+👉 [Calculator GitHub Repo](https://kfs-developer.github.io/Calculator/)
