@@ -1,10 +1,10 @@
 # Simple Calculator
 A basic calculator built using HTML, CSS, and JavaScript. This project features a clean and responsive design with a simple user interface.
 
-Features
-✅ Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
-✅ Clear display with a C button.
-✅ Interactive UI with hover effects.
+Features:-
+✅ Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.<br>
+✅ Clear display with a C button.<br>
+✅ Interactive UI with hover effects.<br>
 ✅ Built with pure JavaScript (no libraries required).
 
 How to Use:-
@@ -14,7 +14,7 @@ How to Use:-
 
 Screenshot:-
 
-![1](https://github.com/user-attachments/assets/205888a3-5e3b-46b9-b6e4-f7d9e2370e51)
+![1](https://github.com/user-attachments/assets/4241c3fd-7c2b-49c4-ab02-84cb24b52e2d)
 ![2](https://github.com/user-attachments/assets/f497d257-0f1c-48b5-8f9c-4ff7e63e7bb1)
 
 Live Demo
